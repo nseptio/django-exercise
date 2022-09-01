@@ -1,0 +1,2 @@
+HEROKU_API_KEY: 20f3b41e-d481-422f-86b9-ed5f0f3b5df1
+HEROKU_APP_NAME: latihan-django
